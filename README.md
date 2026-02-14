@@ -5,7 +5,7 @@
 
 ## Мои проекты
 - **[Foodgram](https://github.com/SergeyGusev1/foodgram)** — Foodgram Продуктовый помощник.
-- **[Blogicum](https://github.com/SergeyGusev1/django_sprint4)** — Blogicum, блог-платформа, где пользователи могут создавать и публиковать свои записи
+- **[Blogicum](https://github.com/SergeyGusev1/blogicum-django-project)** — Blogicum, блог-платформа, где пользователи могут создавать и публиковать свои записи
 
 ## Навыки
 - Языки: Python
